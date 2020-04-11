@@ -1,3 +1,1 @@
-const getUserInfo = require('./sayName');
-
-getUserInfo.sayName();
+console.log(__dirname);
