@@ -1,3 +1,3 @@
-const sayName = require('./sayName');
+const getUserInfo = require('./sayName');
 
-console.log(sayName);
+console.log(getUserInfo);
