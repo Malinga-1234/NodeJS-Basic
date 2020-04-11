@@ -1,3 +1,3 @@
 const sayName = require('./sayName');
 
-sayName();
+console.log(sayName);
