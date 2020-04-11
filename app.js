@@ -1,0 +1,1 @@
+const sayName = require('./sayName');
